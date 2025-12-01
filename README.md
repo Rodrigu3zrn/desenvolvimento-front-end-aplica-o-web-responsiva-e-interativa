@@ -23,6 +23,3 @@ Instruções para Execução do Projeto
 Como este projeto é um aplicativo Single-Page Application (SPA), ele é extremamente simples de executar:
 
 git clone:  https://github.com/seu-usuario/people-register-app
-
-Abra o Arquivo:
-Simplesmente abra o arquivo index.html em qualquer navegador moderno (Chrome, Firefox, Edge, etc.).A aplicação será carregada imediatamente e se conectará automaticamente ao Firebase Firestore para gerenciamento de dados. Não é necessário configurar um servidor local.
